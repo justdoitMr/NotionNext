@@ -34,7 +34,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！观影关注'
+    '你好！欢迎关注'
   ],
   HEO_INFO_CARD_URL: 'https://codinglab.online/NotionNext', // 个人资料底部按钮链接
 
