@@ -36,7 +36,7 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！欢迎关注'
   ],
-  HEO_INFO_CARD_URL: 'https://codinglab.online/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://codinglab.online/', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
