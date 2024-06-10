@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '就到coding Lab 少儿编程实验室',
   HEO_HERO_TITLE_3: 'codinglab.online',
   HEO_HERO_TITLE_4: '收藏网址，关注更多内容',
-  HEO_HERO_TITLE_5: 'coding Lab 少儿编程实验室,
+  HEO_HERO_TITLE_5: 'coding Lab 少儿编程实验室',
   HEO_HERO_TITLE_LINK: 'https://codinglab.online/',
 
   // 英雄区显示三个置顶分类
